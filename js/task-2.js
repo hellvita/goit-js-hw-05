@@ -32,7 +32,7 @@ const allUsers = [
   },
 ];
 
-console.log("-------Task 1-------");
+console.log("-------Task 2-------");
 console.log(getUsersWithFriend(allUsers, "Briana Decker"));
 console.log(getUsersWithFriend(allUsers, "Goldie Gentry"));
 console.log(getUsersWithFriend(allUsers, "Adrian Cross"));
